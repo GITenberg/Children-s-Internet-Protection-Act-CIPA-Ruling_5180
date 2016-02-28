@@ -1,0 +1,28 @@
+_repo: Children-s-Internet-Protection-Act-CIPA-Ruling_5180
+creator:
+  author:
+    agent_name: United States District Court For The Eastern District Of Pennsylvania
+    gutenberg_agent_id: '1724'
+    url: http://www.gutenberg.org/2009/agents/1724
+description: This is an important ruling for Project Gutenberg, in that it removes
+  the necessity for US libraries to run filtering software as had been ordered by
+  the CIPA legislation.  PG doesn't usually distribute legislation and rulings, but
+  in this case it seemed worthwhile.  At 195 pages, the ruling is an extensive and
+  informed look at Internet use and censorship.
+gutenberg_bookshelf: Noteworthy Trials(Bookshelf)
+gutenberg_issued: '2004-02-01'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '5180'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Computers -- Access control -- United States'
+- !lcc 'KF'
+- !lcsh 'Computer networks -- Law and legislation -- United States'
+- !lcsh 'Obscenity (Law) -- United States'
+- !lcsh 'Internet and children -- United States'
+title: Children's Internet Protection Act (CIPA) Ruling
+url: http://www.gutenberg.org/ebooks/5180
