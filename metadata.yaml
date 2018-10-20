@@ -1,5 +1,5 @@
 _repo: Children-s-Internet-Protection-Act-CIPA-Ruling_5180
-_version: 0.2.0
+_version: 0.2.1
 covers:
 - cover_type: generated
   image_path: cover.png
@@ -30,5 +30,6 @@ subjects:
 - !lcsh 'Computer networks -- Law and legislation -- United States'
 - !lcsh 'Obscenity (Law) -- United States'
 - !lcsh 'Internet and children -- United States'
+- GITenberg
 title: Children's Internet Protection Act (CIPA) Ruling
 url: http://www.gutenberg.org/ebooks/5180
